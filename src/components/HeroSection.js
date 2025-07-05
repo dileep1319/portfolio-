@@ -74,7 +74,7 @@ const HeroSection = () => {
               }}
             >
               <img
-                src="/myphoto.jpg"
+                src="/myphoto.png"
                 alt="Dileep Kumar"
                 style={{
                   borderRadius: '50%',
