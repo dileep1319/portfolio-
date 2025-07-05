@@ -24,7 +24,7 @@ const AboutMe = () => {
                 height: 370,
               }}>
                 <img
-                  src="/myphoto.jpg"
+                  src="/myphoto.png"
                   alt="Dileep Kumar"
                   style={{
                     maxHeight: 340,
