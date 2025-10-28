@@ -60,7 +60,7 @@ const HeroSection = () => {
             <p className="lead mb-4" style={{ maxWidth: '700px' }}>
               I specialize in building high-performance web applications and software solutions with clean architecture, responsive UI, and seamless user experiences. Let’s transform your ideas into robust, scalable products that users love.
             </p>
-            <a className="btn btn-warning btn-lg fw-bold px-5" href="/DileepKumarCV.pdf" style={{ color: '#222', fontSize: '1.25rem' }}>Download CV</a>
+            <a className="btn btn-warning btn-lg fw-bold px-5" href="/Dileep-Resume.pdf" style={{ color: '#222', fontSize: '1.25rem' }}>Download CV</a>
           </div>
           <div className="col-lg-5 d-flex justify-content-center mt-5 mt-lg-0">
             <div
